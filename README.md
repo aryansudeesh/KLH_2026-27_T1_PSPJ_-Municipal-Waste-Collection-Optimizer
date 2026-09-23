@@ -1,5 +1,13 @@
 # KLH_2026-27_T1_PSPJ_-Municipal-Waste-Collection-Optimizer
+Project Title: Municipal-Waste-Collection-Optimizer
+Team No -- 13
+Team members names with ID no
 
+2620080033 - Aryan Sudeesh
+
+2620080043 - Koney Sai Jeshwin 
+
+Supervisor's Name - DR Sukanya Ledella
 DESCRIPTION
 The Municipal Waste Collection Optimizer is a Java-based system designed for intelligent waste bin management and collection routing. It monitors bin fullness, categorizes waste as organic, plastic, or metal, and helps optimize daily collection routes.
 
